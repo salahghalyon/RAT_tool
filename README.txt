@@ -3,7 +3,7 @@ produced by Khalil M. Ahmad Yousef, Anas AlMajali, Salah Ghalyon, Waleed Dweik, 
 Bassam J. Mohd as a companion to their paper:
 Analyzing Cyber-physical Threats on Robotic Platforms, which is currently under review.
 
-This work has been done at the computer engineering departmnet at the Hashemite University, Zarqa, jordan.
+This work has been done at the computer engineering departmnet at the Hashemite University, Zarqa, Jordan.
 
 If you use this code in project that results in a publication, please cite the paper above. 
 
