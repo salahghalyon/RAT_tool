@@ -6,7 +6,7 @@
 #currently under review.
 
 #This work has been done at the computer engineering departmnet 
-#at the Hashemite University, Zarqa, jordan.
+#at the Hashemite University, Zarqa, Jordan.
 
 #If you use this code in project that results in a publication, 
 #please cite the paper above. 
