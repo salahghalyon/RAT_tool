@@ -93,10 +93,7 @@ def pkt_callback(packet):
 			
 		Robot_port =packet[0][1].dport
 		client_port=packet[0][1].sport;
-		if(UDP in packet):
-			    spoofed_packet = IP(src=me, dst=robot) / packet[UDP]
-			    send(spoofed_packet)
-			    
+		
 			    
 		if(TCP in packet):
 			
@@ -156,10 +153,7 @@ def pkt_callback(packet):
 		
 		Robot_port =packet[0][1].sport
 		client_port=packet[0][1].dport;
-		if(UDP in packet):
-			    spoofed_packet = IP(src=robot, dst=client) / packet[UDP]
-			    send(spoofed_packet)
-			   
+		
 			    
 		if(TCP in packet):
 			   
